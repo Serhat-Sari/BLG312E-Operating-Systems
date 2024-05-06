@@ -1,2 +1,2 @@
 # BLG312E-Operating-Systems
-BLG 312E 
+Project assignments given in the Operating Systems Lectures. 
